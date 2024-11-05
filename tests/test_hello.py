@@ -7,3 +7,9 @@ def test_more_hello():
 
 def test_more_goodbye():
     assert "bye" == more_goodbye()
+
+# def test_more_hello2():
+#     assert "bye" == more_hello()    
+
+var=1
+var=var
